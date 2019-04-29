@@ -1,0 +1,155 @@
+body {
+    background-color: #fff;
+    color: #777;
+    font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+p {
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+h1 {
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+    color: #444;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+h2 {
+    font-weight: 100;
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 170px;
+}
+h3 {
+    font-size: 30px;
+    color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h4 {
+    font-size: 24px;
+    color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+h5 {
+    font-size: 17px;
+    color: #2530E5;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+    color: #444;
+}
+a:hover {
+    color: #02b8dd;
+}
+strong {
+    font-weight: bold;
+}
+small {
+    font-size: 13px;
+    color: #777;
+    font-style: italic;
+}
+.clear {
+    clear: both;
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 0 9px;
+    width: 1040px;
+}
+
+
+
+header {
+    height: 120px;a
+}
+header nav ul li img {
+    float: left;
+    width: 90px;
+    height: 90px;
+    background: transparent;
+}
+
+header h1 {
+    float: left;
+    margin-top: 35px;
+}
+header h1 .color {
+    color: #66ff33;
+}
+header nav {
+    float: right;
+}
+header nav ul li {
+    float: left;
+    display: inline-block;
+    margin-top: 30px;
+}
+header nav ul li a {
+    color: #444;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin-right: 30px;
+}
+#hero-image {
+    height: 580px;
+    padding-top: 1px;
+    background: #e8eced url('train.jpg') no-repeat center;
+
+    margin: 0;
+    padding: 0;
+    background-size: 50,100%;    
+    background-size: cover;
+    font-family: sans-serif;
+
+}
+#hero-image h2 {
+    margin: 150px 22 40px 22;
+}
+.button-1 {
+    display: block;
+    text-align: center;
+    background: #111EED;
+    border-radius: 3px;
+    color: #fff;
+    width: 140px;
+    height: 60px;
+    font-size: 20px;
+    line-height: 60px;
+    margin: 0 auto;
+}
+.button-1:hover {
+    background-color: #02b8dd;
+    color: #fff;
+}
+footer {
+    padding: 25px 0;
+    background-color: #f8fafa;
+}
+#footer-info {
+    width: 380px;
+    float: left;
+    margin-top: 30px;
+}
+#footer-links {
+    width: 520px;
+    float: right;
+}
+#footer-links ul {
+    width: 150px;
+    float: left;
+    margin-left: 50px;
+}
+#footer-links ul li {
+    margin: 10px 0;
+}
